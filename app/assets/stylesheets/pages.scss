@@ -1,0 +1,74 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+html body{
+ 	color: #2e3d49;
+	font-size: 15px;
+	background: url(fondo11.jpg); 
+  background-size: auto auto;
+		
+}
+header {
+    background:#2c3e50;
+    color:#fff;
+}
+
+.application {
+  main{
+    padding: 80px 0px;
+  }
+}
+
+// .main {
+//     background:#f2f2f2;
+// }
+
+.color1 {
+    background: #34495e;
+    color:#fff;
+}
+
+aside {
+    background:#c0392b;
+    color:#fff;
+}
+
+.navbar-default {
+  	background-color:#024A59;
+  	box-shadow: 0 1px 0 rgba(12,13,14,0.1), 0 1px 6px rgba(59,64,69,0.1);
+  	border-color: #e7e7e7;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  background:#2999A5;
+  color: #000;
+  font-weight: bold;
+}
+.btn-primary{
+  background-color: #2999A5;
+}
+
+/*Clase para personalizar pie de página*/
+footer{
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  background-color: #F8F9E9; //#f7f7f7;
+  border-top: 1px solid #e2e2e2;
+  clear: both;
+  color: #999;
+  text-align: center;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  padding: 8px;
+  height:auto;
+  width:100%;
+
+}
+
+  

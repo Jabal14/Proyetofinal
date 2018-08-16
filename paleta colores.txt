@@ -1,0 +1,19 @@
+Paleta colores
+
+#024A59	Barra de navegación
+
+#2999A5	Botón primary
+
+#F8F9E9
+
+#F24B27
+
+#4E4438
+
+
+Cuenta de correo configurada para envio de emails admón usuarios
+
+Email: "alvaropruebas2018@gmail.com",
+Password: "jabal14*"
+
+
